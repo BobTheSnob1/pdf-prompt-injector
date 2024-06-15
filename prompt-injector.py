@@ -1,4 +1,3 @@
-# flake8: noqa
 import fitz  # PyMuPDF
 import sys
 import argparse
