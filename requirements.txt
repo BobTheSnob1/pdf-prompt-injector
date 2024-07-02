@@ -1,0 +1,2 @@
+PyMuPDF==1.21.1
+argparse==1.4.0
