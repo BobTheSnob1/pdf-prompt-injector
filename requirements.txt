@@ -1,3 +1,4 @@
 PyMuPDF==1.21.1
 argparse==1.4.0
 PyPDF2==3.0.1
+reportlab==4.3.1
